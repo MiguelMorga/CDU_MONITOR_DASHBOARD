@@ -15,13 +15,14 @@ visualizando temperaturas de aire y líquido a través de una interfaz web.
 2. Configurar el inventario de IPs en el archivo JSON
 3. Ejecutar la aplicación con Streamlit
 4. Acceder al dashboard desde el navegador
-
-Ejemplo:
-```bash
-streamlit run main.py
-
+   
 ## Capturas del Dashboard
 
 ![All CDU Temperatures](images/all_cdu_temp.png)
 
 ![CDU Dashboard](images/cdu_dashboard.png)
+
+Ejemplo:
+```bash
+streamlit run main.py
+
